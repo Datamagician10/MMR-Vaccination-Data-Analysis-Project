@@ -1,5 +1,5 @@
 # MMR-Vaccination-Data-Analysis-Project
-This project analyzes MMR (Measles, Mumps, Rubella) vaccination rates across various institutions in different states. The goal is to uncover insights that could inform public health strategies and vaccination campaigns.The goal is to uncover insights that could inform public health strategies and vaccination campaigns. The analysis includes visualizations of vaccination rates by state, institution type, enrollment numbers, and correlations between these factors.
+This project analyzes MMR (Measles, Mumps, Rubella) vaccination rates across various institutions in different states.The goal is to uncover insights that could inform public health strategies and vaccination campaigns. The analysis includes visualizations of vaccination rates by state, institution type, enrollment numbers, and correlations between these factors.
 ## Dataset
 The dataset contains vaccination rate data for 46,412 schools in 32 states across the U.S. for the school years 2017-2018 and 2018-2019. It was compiled by The Wall Street Journal.
 

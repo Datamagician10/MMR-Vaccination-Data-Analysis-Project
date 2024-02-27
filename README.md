@@ -2,6 +2,22 @@
 This project analyzes MMR (Measles, Mumps, Rubella) vaccination rates across various institutions in different states.The goal is to uncover insights that could inform public health strategies and vaccination campaigns. The analysis includes visualizations of vaccination rates by state, institution type, enrollment numbers, and correlations between these factors.
 ## Dataset
 The dataset contains vaccination rate data for 46,412 schools in 32 states across the U.S. for the school years 2017-2018 and 2018-2019. It was compiled by The Wall Street Journal.
+Content
+Vaccination rates are for the 2017-201818 school year for the following states:
+
+Colorado
+Connecticut
+Minnesota
+Montana
+New Jersey
+New York
+North Dakota
+Pennsylvania
+South Dakota
+Utah
+Washington
+Rates for other states are for the time period 2018-2019.
+
 
 ## Visualizations
 - `plot_mmr_distribution`: Shows the distribution of MMR vaccination rates across regions.

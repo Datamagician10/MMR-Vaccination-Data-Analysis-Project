@@ -17,3 +17,20 @@ To run this project, you'll need to install the following Python libraries:
 - Matplotlib
 - Seaborn
 
+You can install these with pip using the following command:
+pip install Flask Pandas Matplotlib Seaborn
+
+
+Once the dependencies are installed, you can run the Flask app with:
+python app.py
+
+
+
+## Usage
+After running the Flask application, navigate to `localhost:5000` in your web browser to view the visualizations.
+
+## Contributions
+Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+Not needed its just for research

@@ -40,6 +40,10 @@ pip install Flask Pandas Matplotlib Seaborn
 Once the dependencies are installed, you can run the Flask app with:
 python app.py
 
+## Flask App
+![image](https://github.com/vansh007/MMR-Vaccination-Data-Analysis-Project/assets/53010250/dd8890d6-cde5-4648-ae40-c6bad22bfe0d)
+![image](https://github.com/vansh007/MMR-Vaccination-Data-Analysis-Project/assets/53010250/f5e3e1ca-3052-41cd-876e-d185dad3ed8a)
+
 
 
 ## Usage
